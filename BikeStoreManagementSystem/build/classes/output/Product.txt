@@ -1,0 +1,5 @@
+P0000,Bike,Giant,Mountain Bike,1999,10000.0
+P0001,Asteroid,Trek,Hybrid Bike,2005,29999.0
+P0002,Rammus,Giant,Hybrid Bike,2010,19999.0
+P0003,Ferb,Trek,Hybrid Bike,2020,50000.0
+P0004,Perry,Giant,Hybrid Bike,2021,19992.0
